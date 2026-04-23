@@ -1,0 +1,1 @@
+module.exports = [["Bitncoi", "Ethereum", "BNB", "Solana"]];
